@@ -5,11 +5,11 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-url: https://HuangWBill.github.io/
+url: https://huangwbill.github.io/
 # Site Settings
 title                    : "Wubiao Huang(黄武彪)"
 description              : "Ph.D. Student, Wuhan University"
-repository               : "HuangWBill/HuangWBill.github.io/"
+repository               : "HuangWBill/huangwbill.github.io/"
 # google_scholar_stats_use_cdn : true
 
 # google analytics
