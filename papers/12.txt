@@ -1,0 +1,12 @@
+@Article{app15042038,
+AUTHOR = {Jiang, Hui and Ding, Mingtao and Li, Liangzhi and Huang, Wubiao},
+TITLE = {Global Dynamic Landslide Susceptibility Modeling Based on ResNet18: Revealing Large-Scale Landslide Hazard Evolution Trends in China},
+JOURNAL = {Applied Sciences},
+VOLUME = {15},
+YEAR = {2025},
+NUMBER = {4},
+ARTICLE-NUMBER = {2038},
+URL = {https://www.mdpi.com/2076-3417/15/4/2038},
+ISSN = {2076-3417},
+DOI = {10.3390/app15042038}
+}

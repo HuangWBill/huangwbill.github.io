@@ -1,0 +1,8 @@
+@article{ta2024dynamic,
+  title={Dynamic flood mapping by a normalized probabilistic classification method using satellite radar amplitude time series},
+  author={Ta, Liangyu and Yu, Chen and Li, Zhenhong and Hu, Xiaoning and Song, Chuang and Huang, Wubiao and Zhou, Meiling},
+  journal={GIScience & Remote Sensing},
+  volume={61},
+  pages={2380125},
+  year={2024}
+}

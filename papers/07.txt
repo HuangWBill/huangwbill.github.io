@@ -1,0 +1,8 @@
+@article{huang2023landslide,
+  title={Landslide susceptibility mapping and dynamic response along the Sichuan-Tibet transportation corridor using deep learning algorithms},
+  author={Huang, Wubiao and Ding, Mingtao and Li, Zhenhong and Yu, Junchuan and Ge, Daqing and Liu, Qi and Yang, Jing},
+  journal={Catena},
+  volume={222},
+  pages={106866},
+  year={2023}
+}

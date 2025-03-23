@@ -1,0 +1,9 @@
+@article{李振洪2023大范围洪涝灾害影响下的交通网受损快速评估,
+  title={大范围洪涝灾害影响下的交通网受损快速评估},
+  author={李振洪 and 王建伟 and 胡羽丰 and 朱武 and 付鑫 and 张双成 and 余琛 and 王乐 and 张驰 and 杜建涛 and 黄武彪 and 吕夏合 and 张成龙 and 陈博 and 刘旭旭 and 岳雨晴},
+  journal={武汉大学学报 (信息科学版)},
+  volume={48},
+  number={7},
+  pages={1039-1049},
+  year={2023},
+}

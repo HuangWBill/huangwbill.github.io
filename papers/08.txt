@@ -1,0 +1,9 @@
+@article{li2024old,
+  title={Old Landslide Detection Using Optical Remote Sensing Images Based on Improved YOLOv8},
+  author={Li, Yunlong and Ding, Mingtao and Zhang, Qian and Luo, Zhihui and Huang, Wubiao and Zhang, Cancan and Jiang, Hui},
+  journal={Applied Sciences},
+  volume={14},
+  number={3},
+  pages={1100},
+  year={2024}
+}

@@ -1,0 +1,11 @@
+@ARTICLE{10723740,
+  author={Huang, Wubiao and Ding, Mingtao and Deng, Fei},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={Domain-Incremental Learning for Remote Sensing Semantic Segmentation With Multifeature Constraints in Graph Space}, 
+  year={2024},
+  volume={62},
+  number={},
+  pages={1-15},
+  keywords={Remote sensing;Incremental learning;Semantic segmentation;Computational modeling;Semantics;Deep learning;Cognition;Electronics packaging;Adaptation models;Training;Cross attention;domain-incremental learning (DIL);graph space reasoning (GSR);remote sensing image;semantic segmentation},
+  doi={10.1109/TGRS.2024.3481875}}
+

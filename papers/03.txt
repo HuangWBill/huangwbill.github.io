@@ -1,0 +1,10 @@
+@article{huang2022efficient,
+  title={An efficient user-friendly integration tool for landslide susceptibility mapping based on support vector machines: SVM-LSM toolbox},
+  author={Huang, Wubiao and Ding, Mingtao and Li, Zhenhong and Zhuang, Jianqi and Yang, Jing and Li, Xinlong and Meng, Ling’en and Zhang, Hongyu and Dong, Yue},
+  journal={Remote Sensing},
+  volume={14},
+  number={14},
+  pages={3408},
+  year={2022},
+  publisher={MDPI}
+}

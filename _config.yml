@@ -1,0 +1,39 @@
+title: "我的个人主页"
+description: "欢迎来到我的个人主页"
+author: "Wubiao Huang (黄武彪)"
+baseurl: ""
+url: "https://HuangWBill.github.io"
+theme: minima
+
+# 导航栏
+header_pages:
+  - index.md
+  - about.md
+  - news.md
+  - publications.md
+  - educations.md
+
+# 站点设置
+permalink: /:categories/:year/:month/:day/:title/
+paginate: 5
+paginate_path: "/blog/page:num/"
+
+# 侧边栏
+sidebar:
+  title: "关于我"
+  image: "/assets/profile.jpg"
+  description: "这里是我的个人介绍……"
+  links:
+    - label: "GitHub"
+      url: "https://github.com/HuangWBill"
+    - label: "Google Scholar"
+      url: "https://scholar.google.com/citations?user=ucut0gEAAAAJ"
+    - label: "Email"
+      url: "huangwubiao@whu.edu.cn"
+    - label: "ResearchGate" 
+      url: "https://www.researchgate.net/profile/Wubiao-Huang"
+
+# 插件
+plugins:
+  - jekyll-paginate
+  - jekyll-seo-tag

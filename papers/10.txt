@@ -1,0 +1,10 @@
+@article{10675730,
+  author={Yang, Jing and Ding, Mingtao and Huang, Wubiao and Li, Zhenhong and Zhang, Zhengyang and Wu, Jing and Peng, Jianbing},
+  journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing}, 
+  title={A Generalized Deep Learning-based Method for Rapid Co-seismic Landslide Mapping}, 
+  year={2024},
+  volume={17},
+  number={},
+  pages={16970-16983},
+  keywords={Terrain factors;Adaptation models;Training;Geoengineering;Earthquakes;Geomagnetism;Remote sensing;Co-seismic landslide inventory mapping;change detection;generalization;landslide identification;multi-domain trained model;medium-resolution imagery;semantic segmentation},
+  doi={10.1109/JSTARS.2024.3457766}}
