@@ -1,39 +1,163 @@
-title: "我的个人主页"
-description: "欢迎来到我的个人主页"
-author: "Wubiao Huang (黄武彪)"
-baseurl: ""
-url: "https://HuangWBill.github.io"
-theme: minima
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your entire site, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# `jekyll serve`. If you change this file, please restart the server process.
 
-# 导航栏
-header_pages:
-  - index.md
-  - about.md
-  - news.md
-  - publications.md
-  - educations.md
+url: https://HuangWBill.github.io/
+# Site Settings
+title                    : "Wubiao Huang(黄武彪)"
+description              : "Ph.D. Student, Wuhan University"
+repository               : "HuangWBill/HuangWBill.github.io/"
+# google_scholar_stats_use_cdn : true
 
-# 站点设置
-permalink: /:categories/:year/:month/:day/:title/
-paginate: 5
-paginate_path: "/blog/page:num/"
+# google analytics
+#google_analytics_id      : G-SWFCX99KQZ
 
-# 侧边栏
-sidebar:
-  title: "关于我"
-  image: "/assets/profile.jpg"
-  description: "这里是我的个人介绍……"
-  links:
-    - label: "GitHub"
-      url: "https://github.com/HuangWBill"
-    - label: "Google Scholar"
-      url: "https://scholar.google.com/citations?user=ucut0gEAAAAJ"
-    - label: "Email"
-      url: "huangwubiao@whu.edu.cn"
-    - label: "ResearchGate" 
-      url: "https://www.researchgate.net/profile/Wubiao-Huang"
+# SEO Related
+#google_site_verification : b_BbOIt7d513ZXYDw-YRMicO6O5tthYiouqWDdWjGTU
+#bing_site_verification   : B5AA590E7B9C03956A6F7DEC0F776211
+#baidu_site_verification  : code-ZxFK3f4pfb
 
-# 插件
+# Site Author
+author:
+  name             : "Wubiao Huang(黄武彪)"
+  avatar           : "image/WubiaoHuang.jpg"
+  bio              : "Wuhan University"
+  location         : "Wuhan"
+  employer         :
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=ucut0gEAAAAJ"
+  email            : "huangwubiao@whu.edu.cn"
+  researchgate     : "https://www.researchgate.net/profile/Wubiao-Huang"
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : "HuangWBill"
+  google_plus      :
+  keybase          :
+  instagram        :
+  impactstory      : # "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  lastfm           :
+  linkedin         : # "KeyanChen"
+  dblp             : #"https://dblp.org/pid/256/2434.html"
+  orcid            : "https://orcid.org/0000-0003-2856-9859"
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  steam            :
+  tumblr           :
+  twitter          : 
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
+  wikipedia        :
+
+
+# Reading Files
+include:
+  - .htaccess
+  - _pages
+  - files
+exclude:
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - CHANGELOG
+  - Capfile
+  - Gemfile
+  - Gruntfile.js
+  - LICENSE
+  - README
+  - Rakefile
+  - assets/js/_main.js
+  - assets/js/plugins
+  - assets/js/vendor
+  - config
+  - gulpfile.js
+  - log
+  - node_modules
+  - package.json
+  - tmp
+  - vendor
+  - google_scholar_crawler
+  - github_myprofile_updater
+keep_files:
+  - .git
+  - .svn
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
+
+# Conversion
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
+
+# Markdown Processing
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
+# Defaults
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: default
+      author_profile: true
+
+
+# Sass/SCSS
+sass:
+  sass_dir: _sass
+  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+
+
+# Outputting
+permalink: /:categories/:title/
+timezone: Asia/Wuhan # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+
+# Plugins
 plugins:
   - jekyll-paginate
-  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-redirect-from
+# mimic GitHub Pages with --safe
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+
+
+# HTML Compression
+# - http://jch.penibelst.de/
+compress_html:
+  clippings: all
+  ignore:
+    envs: development
