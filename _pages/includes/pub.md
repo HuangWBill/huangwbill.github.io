@@ -22,7 +22,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="papers/13.png"><img src='papers/13.png' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
-<b>Multi-Scale Semantic Segmentation of Remote Sensing Images Based on Edge Optimization</b><br>
+<b>Multiscale Semantic Segmentation of Remote Sensing Images Based on Edge Optimization</b><br>
 <i>IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2025</i><br>
 (SCI Q1 Top)<br>
 <b>Wubiao Huang</b>, Fei Deng*, Haibing Liu, Mingtao Ding, Qi Yao<br>
