@@ -1,0 +1,11 @@
+@ARTICLE{10937181,
+  author={Huang, Wubiao and Deng, Fei and Liu, Haibing and Ding, Mingtao and Yao, Qi},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={Multiscale Semantic Segmentation of Remote Sensing Images Based on Edge Optimization}, 
+  year={2025},
+  volume={63},
+  number={},
+  pages={1-13},
+  keywords={Feature extraction;Semantic segmentation;Remote sensing;Image edge detection;Decoding;Optimization;Data mining;Buildings;Deep learning;Convolutional neural networks;Edge point feature optimization (EPFO);multiscale context aggregation (MSCA);remote sensing images;semantic segmentation},
+  doi={10.1109/TGRS.2025.3553524}}
+

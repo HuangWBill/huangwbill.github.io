@@ -26,7 +26,7 @@
 <i>IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2025</i><br>
 (SCI Q1 Top)<br>
 <b>Wubiao Huang</b>, Fei Deng*, Haibing Liu, Mingtao Ding, Qi Yao<br>
-[<a href="https://doi.org/10.1109/TGRS.2025.3553524">PDF</a>] [<a href="https://github.com/HuangWBill/MSEONet">Github</a>] <br>
+[<a href="https://doi.org/10.1109/TGRS.2025.3553524">PDF</a>] [<a href="https://github.com/HuangWBill/HuangWBill.github.io/blob/master/papers/13.pdf">Alternate</a>] [<a href="https://github.com/HuangWBill/HuangWBill.github.io/blob/master/papers/13.txt">BibTex</a>] [<a href="https://github.com/HuangWBill/MSEONet">Github</a>] <br>
 <div style="text-align: justify">
 </div>
 </div>
