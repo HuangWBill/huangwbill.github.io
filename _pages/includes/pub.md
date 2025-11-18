@@ -93,6 +93,22 @@ Hui Jiang, Mingtao Ding*, Liangzhi Li, and <b>Wubiao Huang</b><br>
 
 </div>
 
+### 📚 *Point cloud semantic segmentation*
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="papers/11.png"><img src='papers/11.png' alt="sym" width="100%"></a></div></div>
+<div class='paper-box-text' markdown="1">
+
+<b>Grid Point Serialized Transformer for LiDAR Point Cloud Semantic Segmentation in Various Densities and Heights Scenes</b><br>
+<i>IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2025</i><br>
+(SCI Q1 Top)<br>
+Huchen Li, <b>Wubiao Huang</b>, Jiacheng Liu, Ke Chen,Fei Deng*<br>
+[<a href="https://doi.org/10.1109/TGRS.2025.3617326">PDF</a>] [<a href="https://github.com/HuangWBill/HuangWBill.github.io/blob/master/papers/14.pdf">Alternate</a>] [<a href="https://github.com/HuangWBill/HuangWBill.github.io/blob/master/papers/14.txt">BibTex</a>] <br>
+<div style="text-align: justify">
+</div>
+</div>
+
+</div>
+
+
 ### 📚 *Landslide identification, detection and evolution*
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="papers/10.png"><img src='papers/10.png' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
