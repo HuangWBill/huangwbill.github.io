@@ -1,0 +1,12 @@
+@ARTICLE{11192571,
+  author={Li, Huchen and Huang, Wubiao and Liu, Jiacheng and Chen, Ke and Deng, Fei},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={Grid Point Serialized Transformer for LiDAR Point Cloud Semantic Segmentation in Various Densities and Heights Scenes}, 
+  year={2025},
+  volume={63},
+  number={},
+  pages={1-15},
+  keywords={Point cloud compression;Feature extraction;Three-dimensional displays;Semantic segmentation;Transformers;Data mining;Semantics;Convolution;Attention mechanisms;Computational complexity;3-D spatial serialized order (SSO);classes-refined serialization (CRS);global serialized mamba (GSM);point cloud;semantic segmentation},
+  doi={10.1109/TGRS.2025.3617326}}
+
+
