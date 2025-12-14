@@ -1,0 +1,14 @@
+@article{HUANG2026837,
+title = {Reducing semantic ambiguity in open-vocabulary remote sensing image segmentation via knowledge graph-enhanced class representations},
+journal = {ISPRS Journal of Photogrammetry and Remote Sensing},
+volume = {231},
+pages = {837-853},
+year = {2026},
+issn = {0924-2716},
+doi = {https://doi.org/10.1016/j.isprsjprs.2025.11.029},
+url = {https://www.sciencedirect.com/science/article/pii/S0924271625004666},
+author = {Wubiao Huang and Huchen Li and Shuai Zhang and Fei Deng},
+keywords = {Open-vocabulary segmentation, Semantic ambiguity, Knowledge graph, Class-aware attention},
+abstract = {Open-vocabulary semantic segmentation (OVSS) task presents a new challenge for remote sensing image understanding by requiring the recognition of previously unseen or novel classes during inference. However, existing OVSS methods often suffer from severe semantic ambiguity in land cover classification due to inconsistent naming conventions, hierarchical dependency, and insufficient semantic proximity in the embedding space. To address these issues, we propose KG-OVRSeg, a novel framework that mitigates semantic ambiguity by aggregating structured knowledge from a knowledge graph. This approach significantly enhances intra-class compactness and inter-class separability in the embedding space, thereby fundamentally enhancing class representations. We design a knowledge graph-enhanced class encoder (KGCE) that generates enriched class embeddings by querying hypernym–hyponym and synonym relationships within a localized knowledge graph. These enhanced embeddings are further utilized by a class attention gradual decoder (CAGD), which leverages a class-aware attention mechanism and guidance refinement to guide feature decoding. Extensive experiments on seven publicly available datasets demonstrated that KG-OVRSeg achieves state-of-the-art performance, with a mean mF1 of 51.65% and a mean mIoU of 39.18%, surpassing previous methods by 8.06% mF1 and 6.52% mIoU. Comprehensive ablation and visual analyses confirmed that KGCE significantly improves intra-class semantic compactness and inter-class separability in the embedding space, playing a crucial role in mitigating semantic inconsistency. Our work offers a robust and scalable solution for ambiguity-aware open-vocabulary tasks in remote sensing. The code is publicly available at https://github.com/HuangWBill/KG-OVRSeg.}
+}
+
