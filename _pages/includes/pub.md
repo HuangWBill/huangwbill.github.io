@@ -3,7 +3,22 @@
 
 ### <font color="red">Updating......</font>
 
-### 📚 *Remote sensing semantic segmentation*
+### 📚 *Remote sensing semantic segmentation (Open classes)*
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="papers/15.png"><img src='papers/15.png' alt="sym" width="100%"></a></div></div>
+<div class='paper-box-text' markdown="1">
+
+<b>Reducing semantic ambiguity in open-vocabulary remote sensing image segmentation via knowledge graph-enhanced class representations</b><br>
+<i>ISPRS Journal of Photogrammetry and Remote Sensing (ISPRS), 2026</i><br>
+(SCI Q1 Top)<br>
+<b>Wubiao Huang</b>, Huchen Li, Shuai Zhang, Fei Deng*<br>
+[<a href="https://doi.org/10.1016/j.isprsjprs.2025.11.029">PDF</a>] [<a href="https://www.sciencedirect.com/science/article/pii/S0924271625004666">Alternate</a>] [<a href="https://github.com/HuangWBill/HuangWBill.github.io/blob/master/papers/15.txt">BibTex</a>] [<a href="https://github.com/HuangWBill/KG-OVRSeg">Github</a>] <br>
+<div style="text-align: justify">
+</div>
+</div>
+
+</div>
+
+### 📚 *Remote sensing semantic segmentation (Fixed classes)*
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="papers/11.png"><img src='papers/11.png' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -94,7 +109,7 @@ Hui Jiang, Mingtao Ding*, Liangzhi Li, and <b>Wubiao Huang</b><br>
 </div>
 
 ### 📚 *Point cloud semantic segmentation*
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="papers/11.png"><img src='papers/11.png' alt="sym" width="100%"></a></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="papers/14.png"><img src='papers/14.png' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 <b>Grid Point Serialized Transformer for LiDAR Point Cloud Semantic Segmentation in Various Densities and Heights Scenes</b><br>
