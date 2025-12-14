@@ -109,7 +109,7 @@ Hui Jiang, Mingtao Ding*, Liangzhi Li, and <b>Wubiao Huang</b><br>
 </div>
 
 ### 📚 *Point cloud semantic segmentation*
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="papers/11.png"><img src='papers/11.png' alt="sym" width="100%"></a></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="papers/14.png"><img src='papers/14.png' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 <b>Grid Point Serialized Transformer for LiDAR Point Cloud Semantic Segmentation in Various Densities and Heights Scenes</b><br>
